@@ -64,9 +64,3 @@ save_new_units(max_units)
 # get_disabled()
 # get_active_ios()
 # get_active_android()
-
-
-### Things I couldnt implement due to time constraitns
-### Couldn't figure out how to append list of dicts to json file without having to read json to list, append to list, then overwrite json old file.
-
-### Might be a quicker way of checking if ad unit already exists using hash map instead of iterating over existing ad unit ids. Not enough time to implement
